@@ -1,0 +1,20 @@
+{
+  "name": "greet_function_name",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type":"module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tharun-098/own.git"
+  },
+  "author": "tharun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tharun-098/own/issues"
+  },
+  "homepage": "https://github.com/Tharun-098/own#readme",
+  "description": ""
+}
